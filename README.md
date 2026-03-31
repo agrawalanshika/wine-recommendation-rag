@@ -1,6 +1,8 @@
 # 🍷 RAG-Based Wine Recommendation System
 
 A smart wine recommendation system powered by **Retrieval-Augmented Generation (RAG)** using vector search and LLMs.
+<img width="1562" height="1017" alt="image" src="https://github.com/user-attachments/assets/ab2899f5-b066-4739-ae75-6a060f450a86" />
+
 
 ---
 
