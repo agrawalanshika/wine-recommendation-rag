@@ -60,15 +60,23 @@ pip install -r requirements.txt
 🔑 Environment Setup
 
 Create a .env file in the project root and add your API key:
+
 ``` OPENROUTER_API_KEY=your_api_key_here ```
 
 Install dotenv:
-``` pip install python-dotenv```
+
+```bash
+pip install python-dotenv
+```
 
 ▶️ Run the App
-``` streamlit run app.py ```
+
+``` bash
+ streamlit run app.py
+```
 
 🧪 Example Query
+
 Suggest a bold red wine with dark fruit flavors and spicy notes
 
 ---
@@ -82,4 +90,4 @@ Suggest a bold red wine with dark fruit flavors and spicy notes
 
 ## 👩‍💻 Author
 
-Anshika Agrawal
+**Anshika Agrawal**
