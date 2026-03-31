@@ -52,7 +52,7 @@ wine-recommendation-rag/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/wine-recommendation-rag.git
+git clone https://github.com/agrawalanshika/wine-recommendation-rag.git
 cd wine-recommendation-rag
 pip install -r requirements.txt
 ```
