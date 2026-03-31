@@ -41,10 +41,10 @@ A smart wine recommendation system powered by **Retrieval-Augmented Generation (
 
 ## 📂 Project Structure
 wine-recommendation-rag/
-│── app.py # Streamlit UI
-│── utils.py # Embedding + Qdrant logic
-│── requirements.txt # Dependencies
-│── wine-ratings.csv # Dataset
+│── app.py 
+│── utils.py 
+│── requirements.txt 
+│── wine-ratings.csv 
 │── README.md
 
 ---
@@ -55,3 +55,31 @@ wine-recommendation-rag/
 git clone https://github.com/your-username/wine-recommendation-rag.git
 cd wine-recommendation-rag
 pip install -r requirements.txt
+```
+
+🔑 Environment Setup
+
+Create a .env file in the project root and add your API key:
+``` OPENROUTER_API_KEY=your_api_key_here ```
+
+Install dotenv:
+``` pip install python-dotenv```
+
+▶️ Run the App
+``` streamlit run app.py ```
+
+🧪 Example Query
+Suggest a bold red wine with dark fruit flavors and spicy notes
+
+---
+
+## 📌 Future Improvements
+- Add filters (country, price, variety)
+- Deploy on cloud
+- Add user feedback system
+
+---
+
+## 👩‍💻 Author
+
+Anshika Agrawal
